@@ -1,7 +1,11 @@
-
-percent_burned_57 = [7.9, 6.8, 8.9, 7.7, 7.7, 9.1, 7.9, 5.7, 4.9, 14.8]
-right_edge_reached_57 = [false, false, false, false, false, false, false, false, false, false]
-percent_burned_58 = [5.7, 13.0, 29.6, 11.0, 44.6, 12.8, 36.3, 12.7, 28.4, 16.2]
-right_edge_reached_58 = [false, false, false, false, true, false, false, false, false, false]
-percent_burned_59 = [61.5 35.6, 29.7, 30.4, 65.5 27.3, 21.0, 24.3, 8.1, 58.6]
-right_edge_reached_59 = [false, false, false, false, true, false, false, false, false, true]
+57% density burned,57% density edge reached,58% density burned,58% density edge reached,59% density burned,59% density edge reached,60% density burned,60% density edge reached
+7.9,False,19.8,False,47.0,False,73.3,True
+6.8,False,16.9,False,50.8,False,45.3,True
+8.9,False,11.4,False,52.4,True,29.9,False
+7.7,False,18.6,False,17.0,False,74.0,True
+6.9,False,13.5,False,23.5,False,67.7,True
+8.4,False,22.5,False,66.3,True,66.9,True
+7.4,False,12.4,False,48.8,True,77.0,True
+6.5,False,9.8,False,27.1,False,50.7,False
+8.2,False,7.7,False,14.7,False,70.6,True
+8.1,False,10.2,False,54.2,False,39.0,False
